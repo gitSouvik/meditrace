@@ -1,0 +1,7 @@
+project_id = "kydvirndqdfletmbmnom"
+
+[functions.process-report]
+verify_jwt = false
+
+[functions.generate-biography]
+verify_jwt = false
